@@ -1,4 +1,4 @@
 pycocotools==2.0.0
 numpy==1.17.4
 tensorflow>=1.15.2
-opencv-Python==4.1.2.30
+opencv-Python==4.2.0.32
